@@ -2,6 +2,10 @@
 
 In this README.md you find how to run the application. The application periodically scans a list of http URLs to find out whether a page meets requirements. 
 
+First, download the repository:
+
+```git clone https://github.com/Gitnuts/URL_application.git```
+
 To run the application, you need to install Docker / Docker Desktop. Once Docker was installed, go to the folder that contains Dockerfile and run the following command in a terminal:
 
 ``` docker build . ```
