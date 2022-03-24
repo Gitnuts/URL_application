@@ -1,5 +1,0 @@
-[
-	{ "url": "https://www.verkkokauppa.com/fi/product/602044/Sony-PlayStation-5-PS5-pelikonsoli", "requirement": "content='in stock' property='product:availability"},
-	{ "url": "https://www.verkkokauppa.com/fi/product/653572/Microsoft-Xbox-Series-S-pelikonsoli-valkoinen", "requirement": "content='in stock' property='product:availability"},
-	{ "url": "http://worldagnetwork.com/", "requirement": "content='in stock' property='product:availability"}	
-]
